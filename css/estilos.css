@@ -40,6 +40,7 @@ header{
     flex-direction: column;
     justify-content: space-between;
 }
+/*cambios al styles*/
 .texto-head{
     display: flex;
     align-items: center;
